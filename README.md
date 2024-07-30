@@ -1,8 +1,8 @@
-# CustomNursultanClientRpc
+# CustomDominicClientRpc
 
-CustomNursultanClientRpc is a Discord Rich Presence (RPC) Python application that allows you to customize and display rich presence information on your Discord profile. 
+CustomDominicClientRpc is a Discord Rich Presence (RPC) Python application that allows you to customize and display rich presence information on your Discord profile. 
 
-CustomNursultanClientRpc - это приложение на Python для Discord Rich Presence (RPC), которое позволяет настраивать и отображать информацию о присутствии в вашем профиле Discord.
+CustomDominicClientRpc - это приложение на Python для Discord Rich Presence (RPC), которое позволяет настраивать и отображать информацию о присутствии в вашем профиле Discord.
 
 ## Features / Особенности
 
@@ -28,7 +28,7 @@ CustomNursultanClientRpc - это приложение на Python для Discor
    Склонируйте этот репозиторий на свой компьютер:
 
 ```bash
-git clone https://github.com/cframe1337/CustomNursultanClientRpc.git
+git clone https://github.com/cframe1337/CustomDominicClientRpc.git
 ```
 Or install it with unpacking code archive.
 
