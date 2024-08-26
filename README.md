@@ -1,5 +1,5 @@
 # CustomDominicClientRpc
-
+![Dominic](https://repository-images.githubusercontent.com/835788543/6a8735a9-4602-4d61-9962-58633c322b81)
 CustomDominicClientRpc is a Discord Rich Presence (RPC) Python application that allows you to customize and display rich presence information on your Discord profile. 
 
 CustomDominicClientRpc - это приложение на Python для Discord Rich Presence (RPC), которое позволяет настраивать и отображать информацию о присутствии в вашем профиле Discord.
